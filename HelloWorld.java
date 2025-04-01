@@ -1,7 +1,7 @@
 // Source: https://www2.seas.gwu.edu/~simhaweb/ecom/materials/JSP1.htm
 import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
 
 
 public class HelloWorld extends HttpServlet {
